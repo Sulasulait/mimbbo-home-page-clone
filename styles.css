@@ -46,13 +46,12 @@
 .apps{
     background: rgb(8, 8, 61);
     border-radius: 5px;
-    padding-left: 70px;
+    padding-left: 70x;
     padding-bottom: 10px; 
 }
 .textonetwo{
     float: right;
     width: 13cm;
-    position: absolute;
    
 }
 .mobile-frame2{
