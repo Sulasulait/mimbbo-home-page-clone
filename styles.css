@@ -22,16 +22,23 @@
    margin-top: 10px;
    margin-right: 50px;
 }
-
+.sectionone{
+    background: teal;
+    width: auto;
+    height: 100px;
+    
+}
 .textone{
     float: left;
     width: 13cm;
     margin-left: 100px;
     margin-top: 100px;
+    position: relative;
 }
-.mobile-frame1{
+.mobileframe1{
     float: right;
     width: 50%;
+    position: relative;
 }
 .discover{
     color: green;
@@ -49,12 +56,12 @@
     padding-left: 70x;
     padding-bottom: 10px; 
 }
-.textonetwo{
+.texttwo{
     float: right;
     width: 13cm;
    
 }
-.mobile-frame2{
+.mobileframe2{
     float: left;
     width: 50%;
 }
