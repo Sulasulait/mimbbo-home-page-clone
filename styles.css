@@ -57,13 +57,13 @@
 
 
 .texttwo{
-    float: left;
+    float: right;
     width: 13cm;
     margin-left: 100px;
     margin-top: 100px;
 }
 .mobile-frame1{
-    float: right;
+    float: left;
     width: 50%;
 }
 .discover{
